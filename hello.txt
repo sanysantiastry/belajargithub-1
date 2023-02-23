@@ -2,4 +2,4 @@ hello world saja
 
 mencoba push request melalui fork
 
-latihan squash changes 2
+latihan squash changes 3
